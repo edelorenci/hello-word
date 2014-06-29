@@ -1,3 +1,4 @@
 # Hello World
 
-Just for practice
+First repository. 
+Just for practice.
